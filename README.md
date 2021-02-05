@@ -1,1 +1,1 @@
-# crawler-g1-ex
+# Crawler para o G1 com Elixir
